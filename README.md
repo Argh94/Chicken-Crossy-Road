@@ -10,4 +10,11 @@ The objective of Chicken Crossy Road is to cross an endless highway or series of
 I added a little twist to my version. It's crossy road, but slower. And reduxed! Making the game more challenging than ever before. 
 Cross as many roads as you can.
 
+---
+
 ## You could also play it on Mobile!
+
+I am proud to say that Chicken Crossy Road can be enjoyed on all digital mediums! You could play it on your phone, ipad, or possibly your TV!
+
+---
+
