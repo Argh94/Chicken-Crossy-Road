@@ -1,5 +1,3 @@
-
-
 # 🐔 Chicken Crossy Road
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -11,9 +9,9 @@
 
 ## About the Game
 
-**Chicken Crossy Road** is an entertaining and challenging game inspired by the famous Crossy Road.  
+**Chicken Crossy Road** is a fun and challenging game inspired by the famous Crossy Road.  
 Your objective is to guide the chicken character across endless roads filled with obstacles, trying to achieve the highest score possible.  
-In this version, the game speed is reduced to give you more time to react, but the obstacles and challenges are even tougher!
+In this version, game speed is reduced, giving you more time to react, but the obstacles and challenges are even tougher!
 
 ---
 
@@ -51,8 +49,8 @@ Then open your browser and go to [http://localhost:3000](http://localhost:3000) 
 ## Screenshots
 
 <div align="center">
-  <img src="assets/screenshot1.png" alt="Chicken Crossy Road Screenshot 1" width="300"/>
-  <img src="assets/screenshot2.png" alt="Chicken Crossy Road Screenshot 2" width="300"/>
+  <img src="https://github.com/Argh94/Chicken-Crossy-Road/blob/main/screenshot.png?raw=true" alt="Chicken Crossy Road Desktop Screenshot" width="320"/>
+  <img src="https://github.com/Argh94/Chicken-Crossy-Road/blob/main/chicken.png?raw=true" alt="Chicken Crossy Road Mobile Screenshot" width="200"/>
 </div>
 
 ---
